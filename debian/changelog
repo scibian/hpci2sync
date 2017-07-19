@@ -1,0 +1,28 @@
+hpci2sync (0.4) calibre9; urgency=medium
+
+  * Log error when server role cannot be extracted
+  * Extract cluster prefix from hieradata
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Wed, 19 Jul 2017 15:10:51 +0200
+
+hpci2sync (0.3) calibre9; urgency=medium
+
+  * Make server ending digit in hostname optional
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Thu, 12 Jan 2017 09:14:39 +0100
+
+hpci2sync (0.2) calibre9; urgency=medium
+
+  * Look for certs in certs subdir by default
+  * Also copy global-templates conf files from privatedata
+  * Use short hostname for cert/keys filenames
+  * Rename conf parameter exclude_role to nodes_role
+  * Add nodes to cluster zone hosts file
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Thu, 10 Nov 2016 15:20:22 +0100
+
+hpci2sync (0.1) calibre9; urgency=low
+
+  * Initial release
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Tue, 8 Nov 2016 10:12:00 +0200
