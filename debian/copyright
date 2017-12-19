@@ -1,6 +1,11 @@
 Packaged-By: Rémi Palancher <remi-externe.palancher@edf.fr>
 Packaged-Date: Tue, 8 Nov 2016 10:12:00 +0200
 
+Files: debian/*
+Copyright: © 2016 EDF S.A.
+           © 2017 Scibian Project <legal@scibian.org>
+License: CeCILL
+
 Files: *
 Copyright: © 2016 EDF S.A.
 License: CeCILL
